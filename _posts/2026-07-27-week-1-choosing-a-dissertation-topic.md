@@ -1,6 +1,6 @@
 ---
 title: "Week 1 — Choosing a Dissertation Topic: RAG Poisoning"
-date: 2026-07-27 22:00:00 +0100
+date: 2026-07-27 08:00:00 +0100
 categories: [journey, dissertation]
 tags: [rag, llm, cybersecurity, dissertation, langchain, adversarial-ml]
 ---
