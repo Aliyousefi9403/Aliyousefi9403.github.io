@@ -1,6 +1,6 @@
 ---
 title: "Week 2 — Milestone: full RAG pipeline running end-to-end"
-date: 2026-08-04 12:00:00 +0100
+date: 2026-08-04 00:00:00 +0100
 categories: [dissertation, milestones]
 tags: [rag, langchain, qdrant, adversarial-ml, pwws, mitre-attack]
 ---
