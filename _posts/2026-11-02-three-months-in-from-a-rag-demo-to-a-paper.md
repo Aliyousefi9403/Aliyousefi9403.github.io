@@ -1,6 +1,6 @@
 ---
 title: "Three months in — from a RAG demo to a research paper"
-date: 2026-11-02 18:00:00 +0000
+date: 2026-11-02 09:00:00 +0000
 categories: [dissertation, milestones]
 tags: [rag, adversarial-ml, pwws, textfooler, relative-entropy, runtime-verification]
 ---
