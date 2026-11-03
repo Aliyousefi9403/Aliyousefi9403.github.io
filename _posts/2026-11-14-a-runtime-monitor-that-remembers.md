@@ -38,7 +38,7 @@ The first version of φ1 flagged any rare word outside MITRE's vocabulary, inclu
 
 ## The honest details
 
-- The repeated "Engraft Malicious Package" error disappeared with the monitor — but it was already gone the first time the question was asked, so that was the check-and-retry, not the memory.
+- The repeated "Engraft Malicious Package" error never reached the user with the monitor. The first time, the poisoned passage was retrieved but the draft didn't repeat the phrase; the monitor quarantined it, and the memory kept it out the next two times. But the answer became "I don't know", not a correct one.
 - The memory did its job (φ3 never failed, and later questions skipped more quarantined passages), but its blame step is rough: on PWWS only 10 of the 18 quarantined passages were actually edited.
 - The fallback beats the clean system only because it gets extra trusted text. It shows what a trusted source can add, not what detection can.
 
